@@ -1,0 +1,84 @@
+body {
+	background-color: rgba(133, 248, 237, 0.57);
+}
+
+
+.type1{
+	font-family: "Bitcount Grid Single", system-ui;
+	
+	font-weight: 686;
+    letter-spacing: 22px;
+    text-align:center;
+    line-height:3;
+	font-size: larger;
+}
+.type2{
+	 font-family: "Exo", sans-serif;
+	font-weight: 797;
+    letter-spacing: -1px;
+    text-align:left;
+    line-height:1.5;
+}
+.type3{
+	font-family: "Inter", sans-serif;
+	font-weight: 697;
+    letter-spacing: 5px;
+    text-align:left;
+    line-height:2.4;
+}
+.type4{
+	font-family: "Oswald", sans-serif;
+	font-weight: 810;
+    letter-spacing: 9px;
+    text-align:left;
+    line-height:1.5;
+}
+.type5{
+	 font-family: "Caveat", cursive;
+	font-weight: 642;
+    letter-spacing: 14px;
+    text-align:left;
+    line-height:1.5;
+}
+.type6{
+	font-family: "Grenze Gotisch", serif;
+	font-weight: 600;
+    letter-spacing: 15px;
+    text-align:left;
+    line-height:1.5;
+}
+.type7{
+	font-family: "DynaPuff", system-ui;
+	font-weight: 600;
+    letter-spacing: 16px;
+    text-align:left;
+    line-height:1.5;
+}
+type3{
+	 font-family: "Bricolage Grotesque", sans-serif;
+	font-weight: 600;
+    letter-spacing: 22px;
+    text-align:left;
+    line-height:1.5;
+}
+.type8{
+	font-family: "Savate", sans-serif;
+	font-weight: 600;
+    letter-spacing: 3px;
+    text-align:left;
+    line-height:1.5;
+}
+.type9{
+	
+	font-weight: 600;
+    letter-spacing: 5px;
+    text-align:left;
+    line-height:0.6;
+}
+.type10{
+	font-family: "Pixelify Sans", sans-serif;
+	font-weight: 461;
+    letter-spacing: 6px;
+    text-align:left;
+    line-height:0.9;
+}
