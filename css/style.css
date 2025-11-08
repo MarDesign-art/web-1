@@ -1,0 +1,46 @@
+body{
+	background-color: burlywood	
+	
+}
+.outer-box{
+	width:397px;
+	height: 172;
+	background-color:green;
+	border:5px solid red;
+	border-radius:9px;
+	position: absolute
+
+}
+.inner-box{
+	width:150px;
+	height:200px;
+	background-color:#ff0d5a;
+	border:1px solid #d352d2;
+	border-radius:8px;
+	margin-top: 10px
+}
+.red-box{
+ width: 150px;
+ height: 60px;
+	background-color: #9d52e4;
+	border-radius: 7px;
+		margin: 22px auto;
+	position:lef;
+}
+.yellow-box{
+	width: 150px;
+	height: 200px;
+	background-color: #f1e311;
+	border-radius: 7px;
+	margin: 17px;
+	position: relative
+
+}	
+.blue-box{
+	width: 100px;
+	height:100px;
+	background-color:aqua;
+	margin: 10px auto;
+	position:lef;
+	border-radius: 6px;
+}
