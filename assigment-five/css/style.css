@@ -1,0 +1,49 @@
+body{
+	background-color: burlywood	
+	
+}
+.outer-box{
+	width:397px;
+	height: 200;
+	background-color:green;
+	border:5px solid red;
+	border-radius:10px;
+	position:static absolute;
+
+}
+.inner-box{
+	width:150px;
+	height:200px;
+	background-color:#f20707;
+	border-radius:5px;
+	margin:  22px;
+	pointer-events: auto;
+	margin-left: 3px;
+	
+}
+.red-box{
+ width: 150px;
+ height: 60px;
+	background-color: #9d52e4;
+	border-radius: 7px;
+		margin: 16px auto;
+	position:lef;
+}
+.yellow-box{
+	width: 150px;
+	height: 200px;
+	background-color: #f1e311;
+	border-radius: 7px;
+	margin: 17px;
+	position: relative
+
+}	
+.blue-box{
+	width: 100px;
+	height:100px;
+	background-color:aqua;
+	margin: 12px auto;
+	position:lef;
+	border-radius: 6px;
+	margin-left: 125px;
+}
